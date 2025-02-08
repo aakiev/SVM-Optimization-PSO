@@ -46,11 +46,7 @@ This repository contains an implementation of **Support Vector Machine (SVM) hyp
    ```bash
    git clone https://github.com/aakiev/SVM-Optimization-PSO.git
    ```
-2. Navigate to the project directory:  
-   ```bash
-   cd SVM-PSO-Optimization
-   ```
-3. Run the Python script:  
+2. Run the Python script:  
    ```bash
    python SVM_Classification_Optimized.py
    ```
